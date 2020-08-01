@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Misc
+*.gb
+*.vcxproj.user
+*.txt
+
+# Directories
+.vs/
+x64/
+GBEmu/tests
